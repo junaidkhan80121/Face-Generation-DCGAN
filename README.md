@@ -6,6 +6,9 @@ The repository currently contains a single notebook:
 
 - `Face_Generation.ipynb` - end-to-end workflow for downloading CelebA, preprocessing images, defining the generator and discriminator, training the model, and visualizing generated samples.
 
+<img width="699" height="402" alt="image" src="https://github.com/user-attachments/assets/c6919862-3c47-4a5a-9d25-163b1a76df9f" />
+
+
 ## What the Notebook Does
 
 The notebook walks through a standard DCGAN pipeline:
